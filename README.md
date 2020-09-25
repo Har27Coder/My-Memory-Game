@@ -1,5 +1,5 @@
 In the Folder Above I have made a memory game known as the "Simon Game".
-This is made with Javascript(JS), HTML, and plain old CSS.
+This is made with Javascript (JS), HTML, and plain old CSS.
 The rules are as follows:
 
 1) You can press any key to start the game
